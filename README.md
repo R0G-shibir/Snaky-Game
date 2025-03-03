@@ -44,7 +44,7 @@ g++ main.cpp -o snaky.exe -I include -L lib -lraylib -lopengl32 -lgdi32 -lwinmm
 
 Run the game:
 
-./snaky.exe
+main.exe
 
 🖥️ Controls
 
